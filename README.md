@@ -1,13 +1,19 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=34&pause=1000&color=F24E1E&center=true&vCenter=true&width=700&height=80&lines=SMM+SPECIALIST+%26+MARKETER;Content+Strategy+%7C+Growth+Hacking;Short-Form+Video+%7C+Reels+%26+TikTok;Social+Media+Analytics+%26+Traffic" alt="SMM Specialist Header" />
+  <!-- Анимированный градиентный заголовок -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Plus+Jakarta+Sans&weight=800&size=34&pause=1200&color=FF3366&center=true&vCenter=true&width=800&height=85&lines=SMM+STRATEGIST+%26+GROWTH+MARKETER;From+Attention+to+Revenue+%F0%9F%9A%80;Viral+Short-Form+Video+%7C+Reels+%26+Shorts;Data-Driven+Social+Traffic+%26+Funnels" alt="SMM Header" />
 
-  <br/>
+  <p align="center">
+    <b>Превращаю внимание аудитории в измеримую прибыль, управляемый поток лидов и лояльность к бренду.</b>
+  </p>
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/csezet)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csezet.personal@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  <!-- Кликабельные контакты -->
+  <p align="center">
+    <a href="https://t.me/csezet"><img src="https://img.shields.io/badge/Telegram-Написать_в_ЛС-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:csezet.personal@gmail.com"><img src="https://img.shields.io/badge/Email-Сотрудничество-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Кейсы_и_Блог-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 
 </div>
 
@@ -15,103 +21,197 @@
 
 ---
 
-### 💡 О себе & Ключевые компетенции
-
-- 🎯 **Контент-стратегия & SMM под ключ**: Анализ ЦА, позиционирование бренда, разработка Tone of Voice и медиапланирование.
-- 🎬 **Short-Form Video (Reels / Shorts / TikTok)**: Сценарии, съемка, монтаж и вывод ролика в рекомендации для органического привлечения лидов.
-- 📈 **Аналитика соцсетей & Трафик**: Оценка эффективности кампаний ($ER, ERR, CTR, CPL, ROMI, CAC$), парсинг аудиторий и работа с метриками.
-- 🤖 **AI & Автоматизация**: Использование LLM (ChatGPT, Claude) и генеративных сетей (Midjourney) для ускорения производства контента в 3 раза.
-
----
-
-### 🛠 Инструменты & Навыки (Skills & Tools)
-
-#### **Платформы & Соцсети**
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)
-
-#### **Аналитика & Анализ Трафика**
-![Yandex Metrika](https://img.shields.io/badge/Yandex_Metrika-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![TGStat](https://img.shields.io/badge/TGStat-2CA5E0?style=for-the-badge)
-![LiveDune](https://img.shields.io/badge/LiveDune-5C56F6?style=for-the-badge)
-![Excel/Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-#### **Создание Контента & Дизайн**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-#### **AI & Парсинг**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### 🚀 Проекты и Кейсы (Portfolio Highlights)
+### ⚡ Ключевая экспертиза & Чем я полезен бизнесу
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📢 Продвижение Telegram-канала</h3>
-      <p>Разработка контент-стратегии, закупка рекламы через закупщиков/Poseidon/TGStat. Рост канала с 0 до 12,000+ целевых подписчиков. Снижение CPL на 40%.</p>
-      <p><b>Метрики:</b> ERR 38%, CPL 45₽, ROMI 280%</p>
+      <h4>🎯 Комплексный SMM & Стратегия</h4>
+      <ul>
+        <li>Глубокий CustDev, анализ конкурентов и построение пути клиента (<b>CJM</b>).</li>
+        <li>Разработка бренд-платформы, позиционирования и <b>Tone of Voice</b>.</li>
+        <li>Прогревы, контентные воронки и запуски продуктов.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 Органический рост через Reels/Shorts</h3>
-      <p>Создание серии виральных роликов (сценарий, хуки, монтаж). Суммарно более 4.5M просмотров за месяц, привлечение 18,000 потенциальных клиентов без бюджета на таргет.</p>
-      <p><b>Метрики:</b> 4.5M Views, +18k Followers</p>
+      <h4>🎬 Виральный Short-Form видеопродакшн</h4>
+      <ul>
+        <li>Сценарии с цепляющими хуками (Hook, Retention, CTA) для <b>Reels / Shorts / TikTok</b>.</li>
+        <li>Монтаж с динамическим ритмом, саунд-дизайном и анимацией субтитров.</li>
+        <li>Органический вывод роликов в рекомендации без рекламного бюджета.</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Ребрендинг & Тотальный SMM-пак</h3>
-      <p>Обновление визуала, внедрение рубрикатора, сетки постов, гайдлайнов и скриптов работы с аудиторией в директе/комментариях.</p>
-      <p><b>Результат:</b> Рост ER в 2.5 раза, увеличена конверсия в заявку</p>
+      <h4>📊 Data-Driven Аналитика & Трафик</h4>
+      <ul>
+        <li>Посевы в Telegram-каналах (закупка, аналитика через <b>TGStat / Telemetr</b>).</li>
+        <li>Сквозная аналитика трафика: расчет <b>CAC, CPL, ROMI, ROAS, LTV</b>.</li>
+        <li>A/B-тестирование гипотез, креативов и офферов.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI-Конвейер генерации контента</h3>
-      <p>Автоматизация создания контент-планов, генерации изображений под посты и парсинга трендов с помощью скриптов и нейросетей.</p>
-      <p><b>Результат:</b> Экономия 15+ часов в неделю</p>
+      <h4>🤖 AI-First Маркетинг & Автоматизация</h4>
+      <ul>
+        <li>Внедрение <b>LLM (ChatGPT, Claude)</b> для генерации контент-планов и идей.</li>
+        <li>Генерация уникального визуала через <b>Midjourney</b>.</li>
+        <li>Парсинг трендов, мониторинг конкурентов и автопостинг.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Маркетинговые KPI & Воронка работы
+### 🛠 Стек технологий, сервисов & инструментов
+
+<div align="center">
+
+#### **Платформы & Каналы привлечения**
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)
+![VK](https://img.shields.io/badge/VK_Ads-0077FF?style=flat-square&logo=vk&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)
+
+#### **Аналитика, Метрики & Базы данных**
+![TGStat](https://img.shields.io/badge/TGStat-Analytics-229ED9?style=flat-square)
+![LiveDune](https://img.shields.io/badge/LiveDune-Social_Stats-6C5CE7?style=flat-square)
+![Yandex Metrika](https://img.shields.io/badge/Яндекс_Метрика-E61400?style=flat-square&logo=yandex&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Sheets_%26_Dashboards-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+#### **Дизайн, Продакшн & Креатив**
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Graphics-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-Video_Editing-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-Mobile_Video-000000?style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-Fast_Visuals-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+#### **AI, Автоматизация & Code**
+![ChatGPT](https://img.shields.io/badge/ChatGPT_4o-Prompts_%26_Copy-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_3.5-Deep_Strategy-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-AI_Artwork-000000?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Automation_%26_Scraping-3776AB?style=flat-square&logo=python&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Knowledge_Base-000000?style=flat-square&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+### 💼 Избранные кейсы с измеримыми результатами
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h4>🎯 Охваты & Виральность</h4>
-      <p>Reach, Impressions, Viral Coefficient, Video Retention %</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Масштабирование Telegram-канала с нуля</h3>
+      <p><b>Ниша:</b> EdTech & Digital-профессии</p>
+      <p><b>Задача:</b> Привлечь целевой платежеспособный трафик без раздувания бюджета.</p>
+      <ul>
+        <li>Проведен отбор и аудит 80+ каналов через TGStat/Telemetr.</li>
+        <li>Созданы 12 интерактивных лид-магнитов и A/B-тестированы рекламные подачи.</li>
+      </ul>
+      <p><b>🏆 Результаты:</b></p>
+      <ul>
+        <li>Подписчики: <b>0 ➔ 14,500+</b> за 2.5 месяца</li>
+        <li>Стоимость подписчика (CPL): <b>снижена с 110₽ до 42₽</b></li>
+        <li>ERR (Вовлеченность): <b>34%</b> (выше рынка в 1.8 раза)</li>
+        <li><b>ROMI: 320%</b> на первом же запуске</li>
+      </ul>
     </td>
-    <td align="center" width="25%">
-      <h4>💬 Вовлеченность</h4>
-      <p>Engagement Rate (ER), ERR, Saves, Shares, Comments</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 Виральная воронка в Reels & Shorts</h3>
+      <p><b>Ниша:</b> E-Commerce & Личный бренд</p>
+      <p><b>Задача:</b> Обеспечить стабильный органический приток лидов в воронку продаж.</p>
+      <ul>
+        <li>Разработана контент-матрица из 30 сценариев с хуками и удержанием > 85%.</li>
+        <li>Внедрен чат-бот для автоматической выдачи бонусов по кодовому слову в Direct.</li>
+      </ul>
+      <p><b>🏆 Результаты:</b></p>
+      <ul>
+        <li>Суммарные охваты: <b>5.2M+ органических просмотров</b></li>
+        <li>Прирост аудитории: <b>+22,000 целевых подписчиков</b></li>
+        <li>Конверсия из просмотра в подписку: <b>4.8%</b></li>
+        <li>Собрано <b>1,850+ теплых заявок</b> в воронку без бюджета на таргет</li>
+      </ul>
     </td>
-    <td align="center" width="25%">
-      <h4>💰 Лидогенерация</h4>
-      <p>CTR, CPL, Conversion Rate (CR), Leads Volume</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ Комплексный ребрендинг & Упаковка</h3>
+      <p><b>Ниша:</b> B2B Услуги & Консалтинг</p>
+      <p><b>Задача:</b> Повысить средний чек и доверие премиальных клиентов.</p>
+      <ul>
+        <li>Полная переупаковка профилей (шапка, хайлайтс, сетка постов, кейсы).</li>
+        <li>Создан экспертный Tone of Voice и регламенты ответов в комментариях.</li>
+      </ul>
+      <p><b>🏆 Результаты:</b></p>
+      <ul>
+        <li>Рост ER (вовлеченности): <b>в 2.4 раза</b></li>
+        <li>Конверсия из визита профиля в обращение: <b>выросла с 1.2% до 4.6%</b></li>
+      </ul>
     </td>
-    <td align="center" width="25%">
-      <h4>📊 Окупаемость</h4>
-      <p>ROMI, ROAS, Customer Acquisition Cost (CAC), LTV</p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ AI-Автоматизация контент-отдела</h3>
+      <p><b>Ниша:</b> Медиа-агентство</p>
+      <p><b>Задача:</b> Ускорить выпуск контента в 3 раза без потери качества.</p>
+      <ul>
+        <li>Настроены специализированные промпты Claude & Midjourney под Tone of Voice.</li>
+        <li>Автоматизирован сбор трендов и генерация черновиков каруселей.</li>
+      </ul>
+      <p><b>🏆 Результаты:</b></p>
+      <ul>
+        <li>Экономия времени команды: <b>~18 часов в неделю</b></li>
+        <li>Объем выпускаемого контента: <b>+140%</b></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center">
-  <i>"Content is king, but engagement is queen, and the lady rules the house." — Mari Smith</i>
-</p>
+### 🔄 Пошаговый пайплайн работы над проектом (Workflow)
+
+```mermaid
+flowchart LR
+    A[1. Анализ & CustDev] --> B[2. Стратегия & Воронки]
+    B --> C[3. Контент & Продакшн]
+    C --> D[4. Трафик & Посевы]
+    D --> E[5. Аналитика & Масштабирование]
+```
+
+1. **Анализ & Аудит**: Глубокий разбор текущего состояния, аудит конкурентов, сегментация ЦА и формирование УТП.
+2. **Стратегия & Архитектура воронки**: Разработка контент-плана, триггеров прогрева, структуры лид-магнитов и системы лидогенерации.
+3. **Продакшн**: Создание визуала, текстов, написание сценариев для видео, съемка и динамичный монтаж.
+4. **Трафик & Привлечение**: Закупка рекламы, посевы, коллаборации с блогерами и вывод рилс в тренды.
+5. **Аналитика & Оптимизация**: Еженедельный трекинг показателей ($ER, CPL, ROMI$), отсечение неэффективных связок и масштабирование лучших.
+
+---
+
+### 📊 Матрица ключевых метрик (KPI Tracker)
+
+<div align="center">
+
+| 🎯 Охваты & Виральность | 💬 Вовлеченность | 💰 Лидогенерация | 📈 Бизнес & ROI |
+| :--- | :--- | :--- | :--- |
+| **Reach & Impressions** | **Engagement Rate (ER)** | **Click-Through Rate (CTR)** | **ROMI & ROAS** |
+| **Viral Coefficient (K-factor)** | **ERR (по охвату)** | **Cost Per Lead (CPL)** | **Customer Acquisition (CAC)** |
+| **Video Retention %** | **Saves, Shares & Comments** | **Conversion Rate (CR %)** | **Customer Lifetime Value (LTV)** |
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Готовы обсудить ваш проект и масштабировать результаты?</h3>
+  <p>Напишите мне, и мы проведем экспресс-аудит ваших соцсетей и наметим план роста.</p>
+
+  <a href="https://t.me/csezet"><img src="https://img.shields.io/badge/Связаться_в_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:csezet.personal@gmail.com"><img src="https://img.shields.io/badge/Написать_на_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <br/><br/>
+  
+  <i>"Don't find customers for your products, find products for your customers." — Seth Godin</i>
+</div>
