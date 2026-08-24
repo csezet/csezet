@@ -87,12 +87,28 @@
 
 ---
 
-### 📊 GitHub & Активность
+### 📈 Маркетинговые KPI & Воронка работы
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=csezet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="csezet github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csezet&layout=compact&theme=tokyonight&hide=html,css" alt="csezet top languages" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h4>🎯 Охваты & Виральность</h4>
+      <p>Reach, Impressions, Viral Coefficient, Video Retention %</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>💬 Вовлеченность</h4>
+      <p>Engagement Rate (ER), ERR, Saves, Shares, Comments</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>💰 Лидогенерация</h4>
+      <p>CTR, CPL, Conversion Rate (CR), Leads Volume</p>
+    </td>
+    <td align="center" width="25%">
+      <h4>📊 Окупаемость</h4>
+      <p>ROMI, ROAS, Customer Acquisition Cost (CAC), LTV</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
