@@ -1,18 +1,20 @@
 <div align="center">
 
-  <!-- Анимированный заголовок -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Plus+Jakarta+Sans&weight=800&size=32&pause=1200&color=FF3366&center=true&vCenter=true&width=800&height=85&lines=SMM-СТРАТЕГ+%26+КОНТЕНТ-МЕЙКЕР;Превращаю+внимание+в+прибыль+%F0%9F%9A%80;Виральные+Reels+%26+Shorts+под+ключ;Управляемый+трафик+и+воронки+продаж" alt="SMM Заголовок" />
+  <!-- Анимированная шапка (100% стабильный рендеринг) -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=32&pause=1200&color=FF3366&center=true&vCenter=true&width=800&height=70&lines=SMM+STRATEGIST+%26+GROWTH+MARKETER;Viral+Short-Form+Video+%7C+Reels+%26+Shorts;Data-Driven+Social+Traffic+%26+Funnels;From+Attention+to+Revenue+%F0%9F%9A%80" alt="SMM Header" />
+
+  <h2 align="center">👋 Привет! Я Денис — SMM-стратег и Контент-мейкер</h2>
 
   <p align="center">
     <b>Помогаю брендам и экспертам расти в соцсетях: от стратегии и сценариев до продакшна и трафика.</b>
   </p>
 
-  <!-- Кнопки связи -->
+  <!-- Кнопки связи в один аккуратный ряд -->
   <p align="center">
-    <a href="https://t.me/csezet"><img src="https://img.shields.io/badge/Telegram-Написать_в_ЛС-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="mailto:csezet.personal@gmail.com"><img src="https://img.shields.io/badge/Email-Сотрудничество-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Кейсы_и_Блог-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://t.me/csezet"><img src="https://img.shields.io/badge/Telegram-@csezet-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:csezet.personal@gmail.com"><img src="https://img.shields.io/badge/Email-Сотрудничество-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Блог_%26_Кейсы-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Профиль-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
 </div>
