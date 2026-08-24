@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:7f00ff,100:00c6ff&height=220&section=header&text=SMM%20SPECIALIST%20%26%20MARKETER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Content%20Strategy%20%7C%20Growth%20Hacking%20%7C%20Social%20Analytics%20%7C%20Traffic%20Funnels&descSize=18&descAlignY=62" width="100%" alt="SMM Specialist Banner" />
-</p>
-
 <div align="center">
 
-  # 👋 Привет! Я SMM Specialist & Social Media Marketer
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=34&pause=1000&color=F24E1E&center=true&vCenter=true&width=700&height=80&lines=SMM+SPECIALIST+%26+MARKETER;Content+Strategy+%7C+Growth+Hacking;Short-Form+Video+%7C+Reels+%26+TikTok;Social+Media+Analytics+%26+Traffic" alt="SMM Specialist Header" />
+
+  <br/>
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/csezet)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
